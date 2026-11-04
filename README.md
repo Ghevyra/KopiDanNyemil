@@ -56,6 +56,53 @@ Aplikasi ini sepenuhnya mengimplementasikan alur navigasi lengkap sesuai dengan 
 
 <br>
 
+## ◆ Preview Tampilan Aplikasi
+
+<div align="center">
+
+<table>
+    <tr>
+      <td align="center" width="25%">
+        <img src="screenshots/welcome.jpeg" width="180" alt="Welcome"><br>
+        <sub><b>Welcome</b></sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="screenshots/sign%20up.jpeg" width="180" alt="Sign Up"><br>
+        <sub><b>Sign Up</b></sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="screenshots/login.jpeg" width="180" alt="Login"><br>
+        <sub><b>Login</b></sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="screenshots/register.jpeg" width="180" alt="Register"><br>
+        <sub><b>Register</b></sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="25%">
+        <img src="screenshots/home.jpeg" width="180" alt="Home"><br>
+        <sub><b>Home</b></sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="screenshots/profile.jpeg" width="180" alt="Profile"><br>
+        <sub><b>Profile</b></sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="screenshots/order.jpeg" width="180" alt="Order"><br>
+        <sub><b>Order</b></sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="screenshots/konfirmasi%20pesanan.jpeg" width="180" alt="Konfirmasi"><br>
+        <sub><b>Konfirmasi</b></sub>
+      </td>
+    </tr>
+</table>
+
+</div>
+
+<br>
+
 ## ◆ Tech Stack & Tools
 
 | | |
