@@ -1,19 +1,17 @@
-<div align="center"> <img src="assets/banner.svg" alt="Kopi dan Nyemil" width="100%"/> <br/>
+<div align="center">
 
-Platform Framework Language Design Style
-
-</div>
-
-**_Get a taste of your wish_**
+<img src="assets/banner.svg" alt="Kopi dan Nyemil" width="100%"/>
 
 <br>
+
+<b><i>Get a taste of your wish</i></b>
+
+<br><br>
 
 <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Platform">
 <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Framework">
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Language">
 <img src="https://img.shields.io/badge/Style-Neo--Brutalist%20Pastel-FFD166?style=for-the-badge&logoColor=black" alt="Design Style">
-
-<br>
 
 </div>
 
