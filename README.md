@@ -1,14 +1,8 @@
-<div align="center">
+<div align="center"> <img src="assets/banner.svg" alt="Kopi dan Nyemil" width="100%"/> <br/>
 
-<br>
+Platform Framework Language Design Style
 
-```
-╔══════════════════════════════════╗
-║                                  ║
-║       ☕   KOPI DAN NYEMIL   🥐      ║
-║                                  ║
-╚══════════════════════════════════╝
-```
+</div>
 
 **_Get a taste of your wish_**
 
