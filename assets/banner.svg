@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="1200" height="360">
+  <rect width="1200" height="360" fill="#FFFDF9"/>
+  <rect x="76" y="64" width="1048" height="240" fill="#111"/>
+  <rect x="60" y="48" width="1048" height="240" fill="#FFD166" stroke="#111" stroke-width="5"/>
+  <g stroke="#111" stroke-width="4">
+    <rect x="940" y="84" width="48" height="48" fill="#7096D1"/>
+    <rect x="1000" y="84" width="48" height="48" fill="#FFC0CB"/>
+    <rect x="1060" y="84" width="28" height="48" fill="#FFFDF9"/>
+  </g>
+  <g font-family="'Arial Black', Impact, 'Helvetica Neue', Arial, sans-serif" font-weight="900" fill="#111">
+    <text x="104" y="170" font-size="80" letter-spacing="-2">KOPI DAN NYEMIL</text>
+  </g>
+  <rect x="104" y="196" width="150" height="5" fill="#111"/>
+  <text x="104" y="244" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="26" fill="#111">Get a taste of your wish</text>
+  <text x="1088" y="266" text-anchor="end" font-family="'Courier New', monospace" font-size="15" fill="#111" letter-spacing="2">ANDROID · KOTLIN · COMPOSE</text>
+</svg>
